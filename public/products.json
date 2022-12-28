@@ -1,0 +1,22 @@
+[
+    {
+        "id":"35616855-3f1a-47ee-aa87-a66ed23249b0",
+        "title":"Televisor Samsung Oled 4k 65 pulgadas",
+        "price":1200,
+        "thumbnail":"https://images.samsung.com/is/image/samsung/p6pim/cl/qn65s95bagxzs/gallery/cl-oled-s95b-qn65s95bagxzs-533476969?$1300_1038_PNG$"
+    },
+    {
+        "id":"c3dc5c2e-5048-4f87-8955-607a1efa9989",
+        "title":"Xbox Series X",
+        "price":699,
+        "thumbnail":"https://aremsaprod.vteximg.com.br/arquivos/ids/157155-1000-1000/139838_01.jpg?v=637728044300430000",
+        "stock": 15
+    },
+    {
+        "id":"060333db-bf1f-4f04-b954-7b021ff941f3",
+        "title":"PlayStation 5",
+        "price":699,    
+        "thumbnail":"https://www.necxus.com.ar/products_image/27826/1000x1000_1.jpg"
+
+    }
+]
