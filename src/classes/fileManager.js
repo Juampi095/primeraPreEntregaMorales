@@ -23,7 +23,7 @@ class fileManager {
     }
 }
 
-class productFileManager extends fileManager {
+class ProductFileManager extends fileManager {
     async add(product) {
         try {
             const products = await this.getAll();
@@ -107,6 +107,6 @@ class CartFileManager extends fileManager {
     }
 }
 
-export {productFileManager,CartFileManager,fileManager};
+export {ProductFileManager,CartFileManager,fileManager};
 
 

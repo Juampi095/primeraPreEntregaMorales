@@ -1,5 +1,5 @@
 import express from "express";
-import { productFileManager} from "../classes/fileManager.js";
+import { ProductFileManager} from "../classes/fileManager.js";
 import { v4 } from "uuid";
 import path from "path";
 
